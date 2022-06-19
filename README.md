@@ -1,3 +1,5 @@
+## No longer useful after V0.10.0
+
 ## Wave_Accel
 
 <details> 
